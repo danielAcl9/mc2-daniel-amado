@@ -1,5 +1,3 @@
-import numpy as np
-
 datosX = [0, 1, 3, 5, 6, 8, 9, 12]
 datosY = [14, 10, 12, 6, 8, 5, 4, 1]
 
