@@ -73,3 +73,6 @@ r = (math.sqrt((st - sr)/st)*100)
 r2 = round(r, 2)
 
 print(f"Coeficiente de Relación = {r2} %")
+
+print("Sr = " + sr)
+print("St = " + st)
